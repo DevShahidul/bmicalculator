@@ -7,9 +7,9 @@
 
 ### here are a few test values you can try for the BMI calculator:
 
-** Weight: 70 kg, Height: 1.75 m
-** Weight: 90 kg, Height: 1.80 m
-** Weight: 55 kg, Height: 1.60 m
-** Weight: 100 kg, Height: 1.90 m
+- Weight: 70 kg, Height: 1.75 m
+- Weight: 90 kg, Height: 1.80 m
+- Weight: 55 kg, Height: 1.60 m
+- Weight: 100 kg, Height: 1.90 m
 
 Please note that these are just examples and you can enter any valid weight and height values in the calculator to test it.
