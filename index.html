@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>BMI Calculator</title>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <main class="container">
+            <h1 class="headding">BMI Calculator</h1>
+            <form class="form">
+                <label for="weightInput">Weight (kg):</label>
+                <input required class="form-input" type="number" id="weightInput" name="weight"><br>
+
+                <label for="heightInput">Height (m):</label>
+                <input required class="form-input" type="number" id="heightInput" name="height"><br>
+
+                <button class="calculateBtn" type="button" id="calculateBtn">Calculate BMI</button>
+            </form>
+            <p id="result"></p>
+        </main>
+        <script src="main.js"></script>
+    </body>
+
+</html>
